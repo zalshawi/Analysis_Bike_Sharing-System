@@ -23,6 +23,13 @@ Bay Wheels, consists of a fleet of specially designed, sturdy and durable bikes 
 # Datasets: 
 - 202007-baywheels-tripdata (Dataset from Bay Wheels website), available [here](https://www.lyft.com/bikes/bay-wheels/system-data)
 
+# Conclusion
+- Highest 3 trip days were on Saturday. While, least 4 trip days were on Monday.
+- Riders used Electric bikes twice docked bikes. espashily casual riders
+- Casual riders are twice members riders in weekends
+- Members ride main hours(11 ~ 19). They also ride more on workdays
+Innovate services like public bicycle sharing system is [less pollution in the air and less traffic, allows more parking spots, and is less noisy through neighborhoods.](https://www.bikeradar.com/features/9-reasons-why-bike-commuting-is-better-than-driving/#:~:text=Bike%20commuting%20helps%20society%20in,is%20less%20noisy%20through%20neighborhoods)
+
 
 # Code and Resources Used
 **Python Verison:** 3.8 
