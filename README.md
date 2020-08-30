@@ -10,9 +10,10 @@ Bay Wheels, consists of a fleet of specially designed, sturdy and durable bikes 
 ![](https://i.imgur.com/Xq51hSl.png)
 ![](https://i.imgur.com/qVC82OI.png)
 ![](https://i.imgur.com/D7abvko.png)
+![](https://i.imgur.com/oiruMOL.png)
 ![](https://i.imgur.com/x00xik6.png)
 ![](https://i.imgur.com/dr0m0KL.png)
-![](https://i.imgur.com/oiruMOL.png)
+
 
 
 # Files:
